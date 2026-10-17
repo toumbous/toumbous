@@ -1,64 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm George
 
-# 👋 Hi, I'm George (toumbous)
+### Creative AI · Automation · Cloud Engineering
 
-I’m a **DevOps–Creative Tech hybrid** who builds things that live between  
-infrastructure, animation, generative art, 3D, and interactive digital worlds.
+I'm a **Creative Technologist and Automation Engineer** with a background in IT infrastructure, cloud systems, and digital media.
 
-Right now I'm exploring:
-- 🌐 Cloud & DevOps (AWS, CI/CD, IaC, Proxmox labs)
-- 🎨 Generative Art (Python, p5.js)
-- 🎥 Animation workflows (2D/3D, OpenToonz, Blender)
-- 🧱 Digital archives, web tools & automation
-- 🚀 Creative coding for VR/AR, Unity, and experimental interfaces
+I design and build practical solutions that combine **AI-powered workflows, software automation, interactive experiences, and creative technologies**.
 
----
+My work ranges from developing web applications and automating complex workflows to experimenting with generative AI, animation, and 3D environments.
 
-## 🧰 Tech Stack
+I particularly enjoy turning ideas into working tools, simplifying complicated processes, and connecting technologies that don't usually meet.
 
-**DevOps & Cloud**
-- AWS (S3, CloudFront, Lambda)
-- Docker / Containers  
-- GitHub Actions / CI/CD  
-- Proxmox, VMware  
-- Linux (Ubuntu), Nginx, LAMP
+### 🔭 What I'm working on
 
-**Creative Tech**
-- Python (Pillow, automation tools)
-- p5.js (interactive & generative sketches)
-- Blender (3D models, texturing)
-- OpenToonz / Moho / Krita (2D animation)
-- Unity (early experiments)
+- 🤖 **Creative AI:** Generative media pipelines, ComfyUI workflows, and AI-assisted content creation
+- ⚙️ **Automation:** Python tools, workflow optimization, and practical web applications
+- ☁️ **Cloud & Infrastructure:** AWS, Linux, CI/CD, virtualization, and deployment automation
+- 🎨 **Animation & Interactive Media:** 2D/3D animation, creative coding, and experimental digital experiences
+- 🧪 **Applied Innovation:** Exploring how AI and automation can transform creative and educational workflows
 
-**Web**
-- HTML / CSS / JS  
-- WordPress, Typo3  
-- Static site hosting (S3 + CloudFront)
+### 💡 My approach
 
----
+**Build useful things. Automate repetitive work. Experiment creatively.**
 
-## 🧪 Recent Projects
-
-### 🎨 **Dream Fields — Generative Art in Python**
-Procedurally generated surreal landscapes & scenes using Pillow.  
-→ *Check the repo for code & examples.*
-
-### 💡 DevOps Observability Demo (WIP)
-Custom pipeline with metrics, dashboards, logs.
-
-### 🎮 VR/AR experiments
-Small prototypes and spatial interactions.
-
----
-
-## 🎯 What I'm building next
-- More generative-art engines  
-- DevOps lab + cloud automation tools  
-- 2D animated short film  
-- Procedural 3D/VR experiences  
-
----
-
-## 📫 Contact
-If you'd like to collaborate on DevOps, creative coding, or digital art projects,  
-feel free to reach out on GitHub or open an issue in any repo.
+I'm especially interested in opportunities that bring together AI engineering, creative technology, and real-world problem solving.
